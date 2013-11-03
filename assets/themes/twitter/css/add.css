@@ -1,0 +1,10 @@
+body{
+background-image: url("/img/common/elephant.jpg");
+}
+
+a{
+color: #444;
+}
+a:hover{
+color: #444;
+}
