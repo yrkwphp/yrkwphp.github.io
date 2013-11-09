@@ -6,6 +6,7 @@ description: ゆるかわPHPはゆるくてかわいいPHPerコミュニティ�
 ---
 {% include JB/setup %}
 
+comming soon...
 
 <ul class="posts">
   {% for post in site.posts %}
